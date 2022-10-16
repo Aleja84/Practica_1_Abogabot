@@ -25,7 +25,8 @@
 ## **Requerimientos no funcionales**
 
   -	El formato del documento creado será en formato Word (doc).
-  - La aplicación web debe tener un diseño responsive.
+  -	Será una aplicación web.
+  - Debe tener un diseño responsive.
   - Los colores de la interfaz serán azul marino y blanco (se aceptan propuestas).
 
 
