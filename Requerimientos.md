@@ -1,14 +1,14 @@
-#Requerimientos
+# Requerimientos
 
-##**Precondición**
+## **Precondición**
 
   El usuario debe estar registrado en la plataforma antes de llenar un formulario de demandas.
 
 
-##**Requerimientos funcionales**
+## **Requerimientos funcionales**
 
-  •	El sistema permitirá al usuario registrarse.
-  •	El sistema permitirá al usuario revisar las actualizaciones de su proceso legal.
+  •El sistema permitirá al usuario registrarse.
+  •El sistema permitirá al usuario revisar las actualizaciones de su proceso legal.
   •	Se registrará las demandas a través de un formulario.
   •	Al registrar un formulario se pasará al siguiente proceso el de pago.
   •	El sistema permitirá realizar el pago de la demanda.
@@ -22,7 +22,7 @@
   •	El sistema enviará un correo al usuario cuando se registre un avance su demanda.
 
 
-##**Requerimientos no funcionales**
+## **Requerimientos no funcionales**
 
   •	El formato del documento creado será en formato Word (doc).
   •	La aplicación web debe tener un diseño responsive.
