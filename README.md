@@ -9,4 +9,4 @@ Desarrollo de la práctica del primer tema de Introducción al FrontEnd.
     - [Crea tu buyer persona](./Buyer_persona.pdf)
 - [Publico objetivo](./Publico_objetivo.pdf)
 - [Crea tu primer Wireframe UX](./Wireframe_UX.pdf)
-  - [Ahora el UI]
+- [Ahora el UI](./UI.pdf)
